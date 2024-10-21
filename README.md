@@ -2,5 +2,4 @@
 Recréation en HTML/CSS d'un site vitrine
 
 ## 
-Créatio en cours
-
+Création en cours
