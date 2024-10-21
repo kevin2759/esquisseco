@@ -1,0 +1,16 @@
+* {
+    --bg-color: #FFF;
+    --secondary-bg-color: #FAFAFA;
+    --jaune: #E9BE58;
+    --rose: #E8B29F;
+    --beige: #DFCEC4;
+    --bleu: #ADD7D8;
+    --rouge: #DD7551;
+    --jaunepale: #F0DAA6;
+    --marron: #BEA190;
+    --terracotta: #934E36;
+    font-family: 'Montserrat'; 
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
