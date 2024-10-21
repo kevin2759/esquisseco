@@ -1,0 +1,66 @@
+* {
+    --bg-color: #FFF;
+    --secondary-bg-color: #FAFAFA;
+    --jaune: #E9BE58;
+    --rose: #E8B29F;
+    --beige: #DFCEC4;
+    --bleu: #ADD7D8;
+    --rouge: #DD7551;
+    --jaunepale: #F0DAA6;
+    --marron: #BEA190;
+    --terracotta: #934E36;
+    font-family: 'Montserrat'; 
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1 {
+   font-size: 2.5 rem ;
+   font-family: 'Montserrat';
+   font-weight: 800;
+   font-style: uppercase ;
+  }
+h2 {
+    font-size: 1.5 rem ;
+   font-family: 'Montserrat';
+   font-weight: 400 ;
+   font-style: ;
+  }
+  p {
+    font-size: 1 rem ;
+   font-family:'poppins' ;
+  }  
+  .menu {
+    font-size:  ;
+   font-family: ;
+   font-weight: ;
+   font-style: ;
+  }
+  .nav-bar {
+    font-size:  ;
+   font-family: 'Montserrat';
+   font-weight: ;
+   font-style: ;
+  }
+  .logo {
+    max-width:  ;
+    width: ;
+  }
+  .bouton-resa {
+    font-size:  ;
+   font-family: ;
+   font-weight: ;
+   font-style: ;
+  }
+  .bouton-resa {
+    font-size:  ;
+   font-family: ;
+   font-weight: ;
+   font-style: ;
+  }
+  
+h1,h2,h3,h4 {
+ font-family: 'Montserrat';
+ font-style: uppercase ;
+}
