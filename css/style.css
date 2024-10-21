@@ -1,6 +1,7 @@
 * {
     --bg-color: #FFF;
     --secondary-bg-color: #FAFAFA;
+    --bleufonce: #1A3A49;
     --jaune: #E9BE58;
     --rose: #E8B29F;
     --beige: #DFCEC4;
@@ -21,38 +22,45 @@ h1 {
    font-weight: 800;
    font-style: uppercase ;
   }
+
 h2 {
-    font-size: 1.5 rem ;
+   font-size: 1.5 rem ;
    font-family: 'Montserrat';
    font-weight: 400 ;
    font-style: ;
   }
-  p {
+
+p {
     font-size: 1 rem ;
    font-family:'poppins' ;
   }  
-  .menu {
-    font-size:  ;
+
+.menu {
+   font-size:  ;
    font-family: ;
    font-weight: ;
    font-style: ;
   }
+
   .nav-bar {
     font-size:  ;
    font-family: 'Montserrat';
    font-weight: ;
    font-style: ;
   }
+
   .logo {
     max-width:  ;
     width: ;
   }
+
   .bouton-resa {
     font-size:  ;
    font-family: ;
    font-weight: ;
    font-style: ;
   }
+
   .bouton-resa {
     font-size:  ;
    font-family: ;
