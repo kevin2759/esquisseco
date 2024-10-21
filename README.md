@@ -1,2 +1,6 @@
 # esquisseco
-Recréation en HTML/CSS d'un site vitrine 
+Recréation en HTML/CSS d'un site vitrine
+
+## 
+Créatio en cours
+
